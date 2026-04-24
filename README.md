@@ -2,21 +2,21 @@
 
 Programa simples em **Python** que implementa o algoritmo de Kaprekar.
 
-Sobre
+**Sobre**
 
 O programa recebe um número e aplica o algoritmo de Kaprekar, mostrando as etapas até chegar ao resultado final.
 
-Como funciona
+**Como funciona**
 
 1. Ordena os dígitos em ordem crescente e decrescente
 2. Subtrai o menor do maior
 3. Repete o processo
 
-Como executar
+**Como executar**
 
 python main.py
 
-Exemplo:
+*Exemplo:*
 
 Digite um número: 3524
 5432 - 2345 = 3087
@@ -26,7 +26,7 @@ Digite um número: 3524
 
 
 
-Reconhecimento
+**Reconhecimento**
 
 Se este projeto foi útil para você, considere deixar uma ⭐ no repositório.
 
