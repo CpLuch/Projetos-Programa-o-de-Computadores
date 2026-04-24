@@ -34,4 +34,4 @@ Se este projeto foi útil para você, considere deixar uma ⭐ no repositório.
 
 ## Autor
 **CpLuch-Ricardo Henrique**
-https://github.com/CpLuch
+: https://github.com/CpLuch
