@@ -19,6 +19,7 @@ python main.py
 *Exemplo:*
 
 Digite um número: 3524
+
 5432 - 2345 = 3087
 8730 - 0378 = 8352
 8532 - 2358 = 6174
