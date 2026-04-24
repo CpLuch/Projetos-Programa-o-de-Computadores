@@ -1,0 +1,44 @@
+# 🔢 Kaprekar Algorithm
+
+Programa simples em **Python** que implementa o algoritmo de Kaprekar.
+
+---
+
+## 📌 Sobre
+
+O programa recebe um número e aplica o algoritmo de Kaprekar, mostrando as etapas até chegar ao resultado final.
+
+---
+
+## ⚙️ Como funciona
+
+1. Ordena os dígitos em ordem crescente e decrescente
+2. Subtrai o menor do maior
+3. Repete o processo
+
+---
+
+## ▶️ Como executar
+
+```bash
+python main.py
+```
+
+---
+
+## 🧪 Exemplo
+
+```bash
+Digite um número: 3524
+
+5432 - 2345 = 3087
+8730 - 0378 = 8352
+8532 - 2358 = 6174
+```
+
+---
+
+## 👨‍💻 Autor
+
+**CpLuch**
+https://github.com/CpLuch
